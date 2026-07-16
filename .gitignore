@@ -19,6 +19,10 @@
 /public/hot
 /public/storage
 /storage/*.key
+/storage/app/
+/storage/framework/
+/storage/_docs/
+!/storage/.gitignore
 /storage/pail
 /vendor
 _ide_helper.php
